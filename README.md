@@ -11,11 +11,11 @@ This is Computer Games code for Amazon Games. The code won the 2021 CCGT Runner_
 
 
 ```
-run sherlock_go/sherlockgo_/amazon_sherlockgo.sln
+run sherlock_go/amazon_sherlockgo.sln
 ```
 
 ## Basic Strategy
 
 - alpha-beta pruning & recursive.
 
-![demo](sherlockgo_/demo.png)
+![demo](demo.png)
